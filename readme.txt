@@ -6,7 +6,7 @@ joke  lol
 no realy:
 hello_world!
 
-The first of many, "great things to look forward to!"
+This is the first of many, "great things to look forward to!"
 
 Starting classes on 5/4/21 @ SNHU for BSCS with concentration in software engineering.
 
